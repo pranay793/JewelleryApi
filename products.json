@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "title": "Square Neck Floral Dress",
+    "description": "<h3>French Blue Puff Sleeve Mini Dress</h3><p>Turn heads in our French Blue Puff Sleeve Mini Dress, where classic charm meets modern romance. This flattering mini dress features a structured square neckline and voluminous puff sleeves that bring a soft, feminine edge to your look. The front tie detail adds a touch of playful elegance, while the fitted bodice and flared hem create a beautifully balanced silhouette.</p><p>Crafted from a lightweight, breathable fabric in a dreamy French blue hue, this dress is perfect for sunny days, brunches, or a chic date night. Whether paired with strappy heels or casual sandals, it's your go-to piece for effortless style.</p>",
+    "variants": ["S", "M", "L", "XL"],
+    "color": "blue",
+    "images": [
+      "images/1@2x.jpg",
+      "images/pro1-2@2x.png",
+      "images/pro1-3@2x.png"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "699.00",
+    "discount": 20,
+    "compare_at_price": "900.00"
+  },
+  {
+    "id": 2,
+    "title": "Floral Print Crop Top",
+    "description": "<h3>Floral Print Crop Top</h3><p>Turn up the charm with our Floral Print Crop Top, a perfect blend of comfort and vibrant style. Designed with a flattering neckline and a cropped hem, this top brings a playful edge to any outfit. Its soft, breathable fabric keeps you cool and confident all day long.</p><p>Adorned with a lively floral pattern, it's ideal for pairing with high-waisted jeans, skirts, or shorts. Whether you're heading to brunch, a beach day, or a casual hangout, this crop top adds a fresh, feminine touch to your wardrobe.</p>",
+    "variants": ["S", "M", "L", "XL"],
+    "color": "black",
+    "images": [
+      "images/2@2x.jpg",
+      "images/pro2-2@2x.jpg",
+      "images/pro2-3@2x.jpg"
+    ],
+    "category": "Top",
+    "type": "Dress",
+    "price": "500.00",
+    "discount": 50,
+    "compare_at_price": "1001.00"
+  },
+  {
+    "id": 3,
+    "title": "Bodycon Mermaid Gown",
+    "description": "<h3>Bodycon Mermaid Gown</h3><p>Step into the spotlight with our stunning Bodycon Mermaid Gown, a show-stopping piece that embodies grace, confidence, and timeless elegance. This beautifully crafted gown hugs your figure through the bodice and hips, before flaring out at the knees into a dramatic mermaid silhouette that flows effortlessly with every step. Designed to enhance your natural curves, it features a sculpted neckline, sleek seams, and just the right amount of stretch to offer both support and comfort. Whether you're attending a black-tie event, a glamorous wedding, or a formal evening affair, this gown guarantees a grand entrance. The luxurious fabric adds a subtle sheen, while the tailored fit ensures you look poised and polished all night long. Elevate the look with sparkling accessories and strappy heels for a red-carpet-worthy ensemble that will leave a lasting impression.</p>",
+    "variants": ["S", "M", "L", "XL"],
+    "color": "pink",
+    "images": [
+      "images/3@2x.jpg",
+      "images/pro3-2@2x.jpg",
+      "images/pro3-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "799.00",
+    "discount": 30,
+    "compare_at_price": "999.00"
+  },
+  {
+    "id": 4,
+    "title": "Chic Back Bow Tiered Dress",
+    "description": "<h3>Chic Back Bow Tiered Dress</h3><p>Capture the essence of modern femininity with our Chic Back Bow Tiered Dress, a dreamy ensemble designed to make every moment feel special. This dress features a delicately structured bodice that transitions seamlessly into flowing, layered tiers, creating a silhouette that moves gracefully with you. The star of the show is the oversized bow at the back—a charming and whimsical detail that adds a touch of couture to this effortlessly wearable piece. Crafted from lightweight, breathable fabric, it offers both comfort and elegance, making it ideal for warm weather outings, garden soirées, bridal showers, or even as a statement dress for vacation evenings. The tiered skirt adds volume and texture without feeling heavy, while the adjustable straps ensure the perfect fit. Whether styled with heels and gold accessories for a dressy occasion or worn with sandals and a straw hat for a laid-back chic vibe, this dress is a versatile addition to any wardrobe. Its timeless design, elevated by subtle sophistication and playful detailing, ensures you’ll feel confident, radiant, and unforgettable wherever you wear it.</p>",
+    "variants": ["S", "M", "L", "XL"],
+    "color": "blue",
+    "images": [
+      "images/4@2x.jpg",
+      "images/pro4-2@2x.jpg",
+      "images/pro4-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "999.00",
+    "discount": 33,
+    "compare_at_price": "1,498.00"
+  },
+  {
+    "id": 5,
+    "title": "Men Polo Collar T-shirt",
+    "description": "<h3>Men’s Polo Collar T-shirt</h3><p>Upgrade your casual wardrobe with our Men’s Polo Collar T-shirt, the perfect fusion of classic style and modern comfort. Crafted from premium, breathable cotton fabric, this T-shirt offers exceptional softness and durability, making it ideal for everyday wear. The timeless polo collar adds a refined touch that effortlessly elevates your look, whether you're dressing for a casual day at the office, a weekend outing, or a relaxed evening with friends. Designed with a tailored fit, it contours comfortably to your body while allowing freedom of movement, making it as practical as it is stylish. The reinforced button placket and ribbed cuffs provide subtle detailing that enhances the shirt’s overall appeal. Available in a range of versatile colors, this polo collar T-shirt pairs perfectly with jeans, chinos, or shorts, ensuring you always look polished without trying too hard. Whether layered under a jacket or worn solo, it’s a wardrobe essential that combines functionality and fashion seamlessly.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "white",
+    "images": [
+      "images/5@2x.jpg",
+      "images/pro5-2@2x.jpg",
+      "images/pro5-3@2x.jpg"
+    ],
+    "category": "Shirt",
+    "type": "Dress",
+    "price": "431.00",
+    "discount": 28,
+    "compare_at_price": "599.00"
+  },
+  {
+    "id": 6,
+    "title": "Slim Fit Suit Set In Black",
+    "description": "<h3>Slim Fit Suit Set in Black</h3><p>Elevate your formal wardrobe with our Slim Fit Suit Set in Black, a quintessential ensemble designed to exude confidence, sophistication, and timeless style. Tailored to perfection, this suit features a sleek, slim silhouette that contours the body for a modern and polished look, ideal for business meetings, formal events, or evening occasions. Crafted from high-quality, breathable fabric, it ensures comfort without compromising on structure, allowing you to move with ease throughout your day or night. The jacket showcases classic details such as notch lapels, a two-button closure, and welt pockets, while the matching trousers boast a clean, tapered cut for a sharp finish. Whether paired with a crisp dress shirt and tie or dressed down with a casual shirt for a smart-casual vibe, this black suit set is a versatile and essential addition to any gentleman’s wardrobe. Its understated elegance and impeccable fit make it a go-to choice for making a lasting impression wherever you go.</p>",
+    "variants": ["S", "M", "L", "XL"],
+    "color": "black",
+    "images": [
+      "images/6@2x.jpg",
+      "images/pro6-2@2x.jpg",
+      "images/pro6-3@2x.jpg"
+    ],
+    "category": "shirt",
+    "type": "Dress",
+    "price": "699.00",
+    "discount": 73,
+    "compare_at_price": "900.00"
+  },
+  {
+    "id": 7,
+    "title": "Men's Formal Shirt",
+    "description": "<h3>Men's Formal Shirt</h3><p>Discover the perfect blend of style and sophistication with our Men's Formal Shirt, crafted to meet the demands of the modern professional. Made from premium, breathable cotton fabric, this shirt offers exceptional comfort and durability, keeping you fresh throughout long workdays and important meetings. Its tailored fit ensures a sharp, clean silhouette that enhances your presence without compromising ease of movement. Featuring classic details such as a crisp collar, button-front closure, and adjustable cuffs, this formal shirt is designed to pair effortlessly with suits, blazers, or dress pants for a polished and refined look. Whether you're dressing for the office, a formal event, or a business dinner, this versatile shirt provides a timeless foundation for your wardrobe, combining impeccable craftsmanship with understated elegance. Available in a range of sophisticated colors, it's the essential piece for any man looking to elevate his formal attire.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "blue",
+    "images": [
+      "images/7@2x.jpg",
+      "images/pro7-2@2x.jpg",
+      "images/pro7-3@2x.jpg"
+    ],
+    "category": "Shirt",
+    "type": "Dress",
+    "price": "587.00",
+    "discount": 50,
+    "compare_at_price": "1199.00"
+  },
+  {
+    "id": 8,
+    "title": "Men's Casual Cargo Pants",
+    "description": "<h3>Men’s Casual Cargo Pants</h3><p>Experience the perfect blend of utility and comfort with our Men’s Casual Cargo Pants, designed to keep you stylish and ready for any adventure. Made from durable, breathable fabric, these pants offer a relaxed yet tailored fit that ensures ease of movement throughout the day. Featuring multiple spacious pockets, including side cargo pockets, they provide ample storage for essentials, making them ideal for outdoor activities, travel, or everyday wear. The adjustable waistband and reinforced stitching add to their practicality and longevity, while the versatile design pairs effortlessly with tees, polos, or casual shirts. Whether you’re exploring the city or heading out on a weekend hike, these cargo pants combine functionality with modern style to keep you looking sharp and feeling comfortable.</p>",
+    "variants": ["36", "37", "38", "39", "40"],
+    "color": "blue",
+    "images": [
+      "images/8@2x.jpg",
+      "images/pro8-2@2x.jpg",
+      "images/pro8-3@2x.jpg"
+    ],
+    "category": "Jeans",
+    "type": "Dress",
+    "price": "599.00",
+    "discount": 40,
+    "compare_at_price": "999.00"
+  },
+  {
+    "id": 9,
+    "title": "Vintage Retro Maroon Dress",
+    "description": "<h3>Vintage Retro Maroon Dress</h3><p>Step back in time with our Vintage Retro Maroon Dress, a stunning blend of classic elegance and nostalgic charm. Crafted from soft, high-quality fabric, this dress features a rich maroon hue that evokes warmth and sophistication. Its timeless silhouette is inspired by vintage fashion, boasting a fitted bodice, cinched waist, and a flared skirt that moves gracefully with every step. Delicate details such as a modest neckline, button accents, and subtle pleating add to its retro allure, making it perfect for special occasions, themed parties, or everyday wear for those who appreciate timeless style. Whether paired with vintage accessories or modern heels, this dress is a versatile statement piece that captures the essence of retro glamour with a contemporary twist, ensuring you stand out with grace and confidence wherever you go.</p>",
+    "variants": ["XS", "S", "M", "L"],
+    "color": "red",
+    "images": [
+      "images/shop2@2x.jpg",
+      "images/shop2-2@2x.jpg",
+      "images/shop2-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "999.00",
+    "discount": 33,
+    "compare_at_price": "1480.00"
+  },
+  {
+    "id": 10,
+    "title": "Blue Puff Sleeve Mini Dress",
+    "description": "<h3>Blue Puff Sleeve Mini Dress</h3><p>Capture the essence of playful elegance with our Blue Puff Sleeve Mini Dress, designed to make you stand out effortlessly. This dress features charming puff sleeves that add volume and a touch of vintage-inspired femininity, perfectly complemented by its structured square neckline and flattering mini length. Crafted from lightweight, breathable fabric in a serene blue shade, it offers both comfort and style for warm-weather occasions. The fitted bodice enhances your silhouette, while the flared hem creates a graceful flow with every movement. Whether you’re heading to a brunch, a garden party, or a chic date night, this dress pairs beautifully with strappy heels or casual sandals, making it a versatile and must-have addition to your wardrobe.</p>",
+    "variants": ["36", "37", "38", "39", "40"],
+    "color": "blue",
+    "images": [
+      "images/shop3@2x.jpg",
+      "images/shop3-2@2x.jpg",
+      "images/shop3-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "379.00",
+    "discount": 48,
+    "compare_at_price": "729.00"
+  },
+  {
+    "id": 11,
+    "title": "Light Brown Trousers",
+    "description": "<h3>Light Brown Trousers</h3><p>Upgrade your wardrobe with our versatile Light Brown Trousers, crafted to combine comfort and timeless style effortlessly. Made from high-quality, breathable fabric, these trousers offer a tailored fit that flatters your silhouette while providing ease of movement for all-day wear. The subtle light brown shade makes them an ideal choice for both casual and semi-formal occasions, seamlessly pairing with shirts, polos, or blazers. Designed with attention to detail, featuring classic pockets and a clean waistband, these trousers are perfect for office wear, weekend outings, or smart-casual events. Their durable construction ensures long-lasting wear, making them a reliable staple that adds sophistication and warmth to any outfit.</p>",
+    "variants": ["XS", "S", "M", "L"],
+    "color": "brown",
+    "images": [
+      "images/shop4@2x.jpg",
+      "images/shop4-2@2x.jpg",
+      "images/shop4-3@2x.jpg"
+    ],
+    "category": "Trousers",
+    "type": "Dress",
+    "price": "699.00",
+    "discount": 50,
+    "compare_at_price": "1498.00"
+  },
+  {
+    "id": 12,
+    "title": "Women Wide leg Jeans",
+    "description": "<h3>Women’s Wide Leg Jeans</h3><p>Embrace effortless style and comfort with our Women’s Wide Leg Jeans, designed to offer a flattering and relaxed fit that moves with you. Crafted from high-quality denim with just the right amount of stretch, these jeans provide durability and all-day comfort while enhancing your silhouette with their wide leg cut. Perfect for casual outings or dressing up with heels for a night out, they feature classic five-pocket styling and a mid-rise waist that sits comfortably on your hips. The timeless design pairs seamlessly with a variety of tops, from fitted tees to flowy blouses, making these jeans a versatile and essential addition to any wardrobe. Whether paired with sneakers for a laid-back look or ankle boots for added edge, these wide leg jeans combine fashion and function effortlessly.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "blue",
+    "images": [
+      "images/shop5@2x.jpg",
+      "images/shop5-2@2x.jpg",
+      "images/shop5-3@2x.jpg"
+    ],
+    "category": "Jeans",
+    "type": "Dress",
+    "price": "719.00",
+    "discount": 64,
+    "compare_at_price": "1999.00"
+  },
+  {
+    "id": 13,
+    "title": "Girls Fit and Flare Dress",
+    "description": "<h3>Girls Fit and Flare Dress</h3><p>Delight your little one with our charming Girls Fit and Flare Dress, designed to combine comfort, playfulness, and style in one perfect package. Crafted from soft, breathable fabric, this dress features a fitted bodice that gently hugs the torso and a flared skirt that twirls beautifully with every move. Ideal for birthday parties, family gatherings, or everyday fun, the dress offers ease of movement while maintaining a cute and classic silhouette. Thoughtfully designed with details like a round neckline, short sleeves, and vibrant patterns or colors, it adds a joyful touch to any little girl’s wardrobe. Whether paired with sandals for a sunny day or layered with a cardigan for cooler weather, this dress is sure to make her feel special and confident wherever she goes.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "pink",
+    "images": [
+      "images/shop6@2x.jpg",
+      "images/shop6-2@2x.jpg",
+      "images/shop6-3@2x.jpg"
+    ],
+    "category": "Kids",
+    "type": "Dress",
+    "price": "749.00",
+    "discount": 50,
+    "compare_at_price": "1499.00"
+  },
+  {
+    "id": 14,
+    "title": "Boys Printed Casual Shirt",
+    "description": "<h3>Boys Printed Casual Shirt</h3><p>Keep your young one stylish and comfortable with our Boys Printed Casual Shirt, crafted from soft, breathable fabric that’s perfect for all-day wear. Featuring vibrant, fun prints and a relaxed fit, this shirt is designed to inspire confidence and creativity while providing ease of movement for active kids. The button-down front and classic collar add a touch of timeless style, making it suitable for casual outings, school days, or family gatherings. Durable stitching and easy-care material ensure it withstands everyday adventures, while its versatile design pairs well with jeans, shorts, or chinos. A perfect addition to any boy’s wardrobe, this printed casual shirt combines playful patterns with practical comfort.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "black",
+    "images": [
+      "images/shop7@2x.jpg",
+      "images/shop7-2@2x.jpg",
+      "images/shop7-3@2x.jpg"
+    ],
+    "category": "Kids",
+    "type": "Top and trouser set",
+    "price": "914.00",
+    "discount": 39,
+    "compare_at_price": "1499.00"
+  },
+  {
+    "id": 15,
+    "title": "Vintage Retro Maroon Dress",
+    "description": "<h3>Vintage Retro Maroon Dress</h3><p>Step back in time with our Vintage Retro Maroon Dress, a stunning blend of classic elegance and nostalgic charm. Crafted from soft, high-quality fabric, this dress features a rich maroon hue that evokes warmth and sophistication. Its timeless silhouette is inspired by vintage fashion, boasting a fitted bodice, cinched waist, and a flared skirt that moves gracefully with every step. Delicate details such as a modest neckline, button accents, and subtle pleating add to its retro allure, making it perfect for special occasions, themed parties, or everyday wear for those who appreciate timeless style. Whether paired with vintage accessories or modern heels, this dress is a versatile statement piece that captures the essence of retro glamour with a contemporary twist, ensuring you stand out with grace and confidence wherever you go.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "red",
+    "images": [
+      "images/similar1@2x.jpg",
+      "images/similar1-2@2x.jpg",
+      "images/shop2-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Top and trouser set",
+    "price": "999.00",
+    "discount": 33,
+    "compare_at_price": "1498.00"
+  },
+  {
+    "id": 16,
+    "title": "Floral Print Bodycon Dress",
+    "description": "<h3>Floral Print Bodycon Dress</h3><p>Turn heads with our Floral Print Bodycon Dress, a perfect blend of bold femininity and elegant style. Crafted from stretchy, figure-hugging fabric, this dress accentuates your curves while providing all-day comfort. The vibrant floral pattern adds a fresh, romantic touch, making it ideal for garden parties, date nights, or any occasion where you want to make a statement. Featuring a flattering neckline and a sleek silhouette, it balances playful prints with sophisticated design details. Whether paired with heels for a polished look or dressed down with sandals for casual chic, this bodycon dress is a versatile and eye-catching addition to your wardrobe.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "black",
+    "images": [
+      "images/similar2@2x.jpg",
+      "images/similar2-2@2x.jpg",
+      "images/similar2-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "699.00",
+    "discount": 73,
+    "compare_at_price": "900.00"
+  },
+  {
+    "id": 17,
+    "title": "Square Neck Dress in White",
+    "description": "<h3>Square Neck Dress in White</h3><p>Embrace timeless elegance with our Square Neck Dress in White, a versatile piece that effortlessly combines simplicity with sophistication. Crafted from lightweight, breathable fabric, this dress features a flattering square neckline that highlights your collarbones and adds a modern twist to a classic silhouette. The fitted bodice and gently flared skirt create a balanced shape that moves gracefully with every step, making it perfect for daytime events, garden parties, or chic casual outings. Its crisp white color offers endless styling possibilities—pair it with delicate jewelry and strappy sandals for a fresh, refined look, or layer with a bold jacket and statement accessories for a more dramatic effect. This dress is a must-have wardrobe staple that embodies purity, style, and understated charm.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "white",
+    "images": [
+      "images/similar3@2x.jpg",
+      "images/similar3-2@2x.jpg",
+      "images/similar3-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "899.00",
+    "discount": 35,
+    "compare_at_price": "1398.00"
+  },
+  {
+    "id": 18,
+    "title": "Floral Wrap V-Neck Dress",
+    "description": "<h3>Floral Wrap V-Neck Dress</h3><p>Step into effortless femininity with our Floral Wrap V-Neck Dress, designed to flatter every figure with its adjustable wrap silhouette and elegant V-neckline. Crafted from soft, breathable fabric adorned with vibrant floral prints, this dress offers both comfort and style for warm-weather occasions. The wrap design cinches at the waist to create a defined silhouette, while the flowing skirt adds graceful movement and a touch of romance. Perfect for garden parties, brunches, or casual outings, it pairs beautifully with sandals or heels to complete your look. With its timeless charm and versatile appeal, this dress is a must-have for those seeking a blend of classic elegance and modern comfort.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "red",
+    "images": [
+      "images/similar4@2x.jpg",
+      "images/similar4-2@2x.jpg",
+      "images/similar4-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "699.00",
+    "discount": 50,
+    "compare_at_price": "1398.00"
+  },
+  
+  {
+    "id": 23,
+    "title": "Scoop Neck Midi Dress",
+    "description": "<h3>Scoop Neck Midi Dress</h3><p>Elevate your wardrobe with our Scoop Neck Midi Dress, a perfect combination of elegance and effortless style. Crafted from soft, breathable fabric, this dress features a flattering scoop neckline that gracefully frames the collarbones, while the midi length offers a sophisticated silhouette suitable for both casual and semi-formal occasions. The tailored fit gently hugs the body, enhancing your natural shape, and the flowing skirt adds movement and charm with every step. Ideal for brunches, garden parties, or office wear, this versatile dress pairs beautifully with heels or flats and can be easily accessorized to suit your personal style. Comfortable yet chic, the Scoop Neck Midi Dress is a timeless addition to any wardrobe.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "white",
+    "images": [
+      "images/arrival1@2x.jpg",
+      "images/arrival1-2@2x.jpg",
+      "images/arrival1-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "529.00",
+    "discount": 31,
+    "compare_at_price": "767.00"
+  },
+  {
+    "id": 24,
+    "title": "Fit & Flare Mini Floral dress",
+    "description": "<h3>Fit & Flare Mini Floral Dress</h3><p>Bring a fresh and flirty vibe to your wardrobe with our Fit & Flare Mini Floral Dress, designed to highlight your waist and add playful movement with its flared skirt. Crafted from lightweight, breathable fabric adorned with charming floral prints, this dress combines comfort and style effortlessly. The fitted bodice gently hugs your figure, while the mini length and flared hem create a youthful and feminine silhouette perfect for sunny days, casual outings, or garden parties. Featuring delicate details like a flattering neckline and subtle gathers, it pairs beautifully with sandals or sneakers for a relaxed look, or dress it up with heels and accessories for a more polished appearance. This versatile dress is a must-have for those who love a mix of classic charm and modern flair.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "white",
+    "images": [
+      "images/arrival2@2x.jpg",
+      "images/arrival2@2x.jpg",
+      "images/arrival2@2x.jpg"
+    ],
+    "category": "Kids",
+    "type": "Dress",
+    "price": "529.00",
+    "discount": 31,
+    "compare_at_price": "767.00"
+  },
+  {
+    "id": 25,
+    "title": "Men Sweatshirt",
+    "description": "<h3>Men’s Sweatshirt</h3><p>Stay cozy and stylish with our Men’s Sweatshirt, crafted from soft, warm fabric designed to provide comfort and durability throughout the day. Featuring a classic fit and ribbed cuffs and hem, this sweatshirt offers a relaxed yet structured silhouette perfect for casual outings, workouts, or lounging at home. The versatile design and solid color options make it easy to pair with jeans, joggers, or shorts, while the breathable material ensures you stay comfortable in various weather conditions. Whether layered under a jacket or worn on its own, this sweatshirt is an essential addition to any man’s casual wardrobe, combining functionality with timeless style.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "white",
+    "images": [
+      "images/arrival3@2x.jpg",
+      "images/arrival3-2@2x.jpg",
+      "images/arrival3-3@2x.jpg"
+    ],
+    "category": "Shirt",
+    "type": "Dress",
+    "price": "529.00",
+    "discount": 31,
+    "compare_at_price": "767.00"
+  },
+  {
+    "id": 26,
+    "title": "Tie Shoulder Layered Dress",
+    "description": "<h3>Tie Shoulder Layered Dress</h3><p>Elevate your style with our Tie Shoulder Layered Dress, a perfect blend of feminine charm and contemporary design. Crafted from lightweight, flowing fabric, this dress features delicate tie shoulder straps that add a playful and adjustable touch, allowing for a personalized fit. The layered skirt creates graceful movement and adds dimension, enhancing the dress’s elegant silhouette. Ideal for warm-weather occasions such as garden parties, brunches, or casual outings, this dress pairs beautifully with sandals or heels for a versatile look. Its soft fabric and flattering cut make it both comfortable and stylish, ensuring you feel confident and effortlessly chic wherever you go.</p>",
+    "variants": ["XS", "S", "M", "L", "XL"],
+    "color": "red",
+    "images": [
+      "images/arrival4@2x.jpg",
+      "images/arrival4-2@2x.jpg",
+      "images/arrival4-3@2x.jpg"
+    ],
+    "category": "Dress",
+    "type": "Dress",
+    "price": "529.00",
+    "discount": 31,
+    "compare_at_price": "767.00"
+  }
+]
